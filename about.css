@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'poppins', sans-serif;
+    box-sizing: border-box;
+}
+ .container{
+    width: 100%;
+    height: 100vh;
+ }
+ .slides{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+    color: #fff;
+ }
+ .slides h1{
+    font-size: 60px ;
+    font-weight: 600;
+    max-width: 650px;
+ }
+ .slides1{
+    background: linear-gradient(454deg, #4f4080, #9553ff);
+ }
+ .slides2{
+    background: #14e0a3;
+ }
+ .slides3{
+    background: lightcoral;
+ }
+ .wrapper .btn
+
+
+ 
+
